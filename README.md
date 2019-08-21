@@ -1,0 +1,2 @@
+# SailsSample
+Sample Sails Project
